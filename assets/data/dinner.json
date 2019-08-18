@@ -1,0 +1,8 @@
+{
+    "dinner": [
+        { "name": "Spaghetti", "price": "$8.99", "calories": "1120" },
+        { "name": "Sushi Boat", "price": "$22.99", "calories": "970" },
+        { "name": "Salad", "price": "$6.99", "calories": "670" },
+        { "name": "Steak", "price": "$19.99", "calories": "1020" }
+    ]
+}

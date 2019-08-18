@@ -1,0 +1,8 @@
+{
+    "breakfast": [
+        { "name": "Eggwich", "price": "$3.99", "calories": "360" },
+        { "name": "Breakfast Burrito", "price": "$5.99", "calories": "660" },
+        { "name": "Bagel", "price": "$1.99", "calories": "200" },
+        { "name": "Muffin", "price": "$1.49", "calories": "280" }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "lunch": [
+        { "name": "Cheese Burger", "price": "$6.99", "calories": "860" },
+        { "name": "Pizza Slice", "price": "$2.99", "calories": "330" },
+        { "name": "Salad", "price": "$5.99", "calories": "460" },
+        { "name": "Club Sandwich", "price": "$3.49", "calories": "520" }
+    ]
+}
